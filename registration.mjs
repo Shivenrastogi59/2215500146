@@ -20,7 +20,7 @@ fetch(url, {
   .then(res => res.json())
   .then(data => {
     console.log("✅ Registered:", data);
-    // Store your clientID and clientSecret securely
+    
   })
   .catch(err => {
     console.error("❌ Error:", err);
