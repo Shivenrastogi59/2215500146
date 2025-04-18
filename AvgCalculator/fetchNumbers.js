@@ -7,7 +7,7 @@ const API_ENDPOINTS = {
   r: 'http://20.244.56.144/evaluation-service/rand',
 };
 
-const AUTH_TOKEN = ''; //working upon the access token 
+const AUTH_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzQzNTc0MzQ0LCJpYXQiOjE3NDM1NzQwNDQsImIzcyI6IkFmZm9yZG11ZCIsImp0aSI6ImQ5Y2JjNjk5LTRhMjctNDRhNS04ZDU5LThiMWJlZmE4MTZkYSIsInN1YiI6InJhbWtyaXNobmFAYWJjLmVkdSIsIm5hbWUiOiJyYW9ga3Jpc2huYSIsInJvbGxObyI6ImFhMWJiIiwWNjZXN2Q29kZSI6InhQN0Q0YIsImNsaWVudEljoiZDljYmI2OTktNmEyNy00NGE1LThkNTktOGIxYmVmYTGxNmRhiIwiY2xpZW50U2VjcmV0IjoidFZKYWFhUkJTZVhjUlh1TSJ9.YApD98gq0IN_0Ww7JMfmuuFk1m4hLTm7AIcLDcLAzVg';
 
 const validIds = Object.keys(API_ENDPOINTS);
 
